@@ -9,7 +9,7 @@ on:
 jobs:
   build:
 
-    runs-on: subharanjan-self-runner
+    runs-on: subharanjan-host-runner
 
     steps:
     - uses: actions/checkout@v2
