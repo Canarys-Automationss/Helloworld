@@ -1,4 +1,4 @@
-name: Build Action
+name: BuildAction
 
 on:
   push:
